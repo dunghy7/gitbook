@@ -5,7 +5,6 @@
 ## Cái này là tiêu đề demo thôi nhé
 * [🎨 Đọc cái này trước khi sử dụng nhé](use-cases/for-designers.md)
 * [🖥 Thử thêm cái tiêu đề xem sao](use-cases/for-developers.md)
-* [🖥 Thử thêm cái tiêu đề xem sao nhé](use-cases/for-developers.md)
 
 ## Overview
 
