@@ -3,7 +3,7 @@
 * [👋 Welcome to A Product](README.md)
 
 ## Cái này là tiêu đề demo thôi nhé
-* [🎨 Đọc cái này trước khi sử dụng nhé](use-cases/for-designers.md)
+* [🎨 Đọc cái này trước khi sử dụng nhé hôm nay ngày 15/3](use-cases/for-designers.md)
 * [🖥 Thử thêm cái tiêu đề xem sao](use-cases/for-developers.md)
 
 ## Overview
