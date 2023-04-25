@@ -1,29 +1,18 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [✌ Lời giới thiệu](README.md)
+* [🏕 Tạo mới page](tao-moi-page.md)
 
-## Cái này là tiêu đề demo thôi nhé
+## 🌭 Tạo nội dung
 
-* [🎨 Đọc cái này trước khi sử dụng nhé hôm nay ngày 15/3](use-cases/for-designers.md)
-* [🖥 Thử thêm cái tiêu đề xem sao test thử](use-cases/for-developers.md)
-
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-*
-*
+* [Import](tao-noi-dung/import.md)
+* [Editor](tao-noi-dung/editor/README.md)
+  * [Rich text](tao-noi-dung/editor/rich-text.md)
+  * [Inline Content](tao-noi-dung/editor/inline-content/README.md)
+    * [Annotations](tao-noi-dung/editor/inline-content/annotations.md)
+    * [Image](tao-noi-dung/editor/inline-content/image.md)
+    * [Emoji](tao-noi-dung/editor/inline-content/emoji.md)
+    * [Link](tao-noi-dung/editor/inline-content/link.md)
+    * [Math & TeX](tao-noi-dung/editor/inline-content/math-and-tex.md)
+  * [Formatting](tao-noi-dung/editor/formatting.md)
+  * [Markdown](tao-noi-dung/editor/markdown.md)
